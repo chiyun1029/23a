@@ -24,7 +24,10 @@
     *note 2  
     ***note 3  
 
-
+```python
+s = "python 語法高亮"
+print s
+```
 ```javascript
 var s = "JavaScript 語法高亮";
 alert(s);
