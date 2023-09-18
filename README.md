@@ -21,3 +21,6 @@
   ...* note 1
   ...* note 2
   *** note 3
+
+s = "python suntax highlighting"
+print s
