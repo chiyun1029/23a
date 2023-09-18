@@ -22,5 +22,5 @@
   ...* note 2
   *** note 3
 
-s = "python suntax highlighting"
-print s
+var s = "JavaScript syntax highlighting";
+alert(s)
