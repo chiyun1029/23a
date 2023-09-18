@@ -33,8 +33,8 @@ var s = "JavaScript 語法高亮";
 alert(s);
 ```
 
-|  功能  |    效果    | Markdown語法 |
+|  Table  |    Are    | Cool |
 |:------:|:----------:|:------------:|
-|  粗體  |  **粗體**  |  `**粗體**`  |
-|  斜體  |   *斜體*   |   `*斜體*`   |
-| 刪除線 | ~~刪除線~~ | `~~刪除線~~` |
+|  **col 3 is**  |  right-aligned  |  $1600  |
+|  **col 2 is**  |   centered   |   $12   |
+| **zebra stripes** | are neat | $1 |
