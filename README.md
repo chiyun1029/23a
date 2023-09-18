@@ -22,8 +22,9 @@
   ...* note 2
   *** note 3
 
-var s = "JavaScript syntax highlighting";
-alert(s)
+```javascript
+var s = "JavaScript 語法高亮";
+alert(s);
+```
 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=sSm2dRarhPo")
 
