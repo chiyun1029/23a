@@ -3,4 +3,6 @@
 # PERT
 ![pert](pert.jpg "pert")
 # CPM
-![CPM](CPM.jpg "CPM")
+![CPM](C110118111.jpg "CPM")
+# 關鍵路徑
+1->3->5->10->14->17
